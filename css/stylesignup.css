@@ -1,0 +1,190 @@
+
+body{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+header{
+	background-color:#9A1919;
+  padding: 30px 0px 40px;
+  margin-left: 0px;
+  margin-right: 0px;
+	text-align: right;
+}
+.button .btn-primary{
+	position: relative;
+	left: 350px;
+	background-color: transparent;
+	font-size: 20px;
+}
+.button2 .btn-primary{
+	position: relative;
+	left: 400px;
+	background-color: transparent;
+	font-size: 20px;
+}
+.nav-link{
+	background-color: #CDCDBC;
+	border-radius: 5%;
+	text-indent: 1px;
+	padding-right: 3px;
+	box-shadow: 0px 3px 0px #A6A697;
+}
+.nav-link:hover{
+	box-shadow: 0px 0px 0px;
+	padding-top: 7px;
+	
+}
+.nav-item{
+	padding-left: 1%;
+	border-radius:10%;
+	
+}
+
+#searchbox{
+	position: relative;
+	left: 190px;
+	width: 70%
+}
+#button {
+ padding: 0;
+ }
+
+.button{
+ display: inline;
+ padding: 0;
+	
+ }
+#header-nav{
+padding: 5px 0;
+background-color: transparent;
+}
+
+#signup{
+	background-color: #E7A80B;
+}
+#signup h1{
+	padding-left: 6%;
+	font-weight: 100;
+	margin-top: 15%;
+	padding-top: 10%;
+	padding-right: 10%
+}
+#signup h3{
+	padding-left: 6%;
+	font-size: 20px;
+	padding-bottom: 15%;
+	padding-right: 10%;
+
+
+}
+
+.fondosignup{
+	background-color: aliceblue;
+	border-radius: 20px;
+	
+}
+
+
+* {box-sizing: border-box}
+
+/* style the container */
+.cajasignup {
+  position: relative;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px 0 30px 0;
+	margin-top: 15%;
+	padding-bottom: 15%;
+}
+
+/* style inputs and link buttons */
+input.contraseña,
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+}
+
+input.registrarse,
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+	margin-top: 10%;
+}
+
+input.nombre,
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+}
+input:hover,
+.btn:hover {
+  opacity: 1;
+}
+
+/* add appropriate colors to fb, twitter and google buttons */
+
+
+
+.botonfb{
+	background-color: #372B9B;
+	color: #FFFFFF;
+	margin-top: 15%;
+
+}
+
+.or{
+	align-content: center;
+	text-align: center;
+	padding: 5%;
+}
+
+.nombre{
+	margin-bottom: 15%
+}
+.contraseña{
+	margin-bottom: 10%
+}
+.registrarse{
+	background-color: #233862;
+	color: aliceblue;
+	margin-top: 10%;
+}
+
+
+
+footer{
+	background-color: #9A1919;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#siguenos{
+	background-color: #9A1919;
+	text-align: right;
+	font-size: 30px;
+}
