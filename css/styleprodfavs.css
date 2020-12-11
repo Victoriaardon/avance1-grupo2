@@ -1,0 +1,202 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+header{
+	background-color:#9A1919;
+  padding: 30px 0px 4px;
+  margin-left: 0px;
+  margin-right: 0px;
+	height: 100px;
+}
+.button5 .btn-primary{
+	font-size: 20px;
+	background-color: transparent;
+	position: absolute;
+	top:30px;
+}
+
+.button2 .btn-primary{
+	background-color: transparent;
+	font-size: 20px;
+	position: relative;
+	left:100px;
+}
+#logowagia{
+	width: 300px;
+}
+
+#searchbox{
+	position: relative;
+	left: 190px;
+	width: 70%
+}
+#pregunta{
+	background-color: #E7A80B;
+}
+#pregunta h2{
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+#pregunta h4{
+	position: relative;
+	left: 80px;
+}
+	
+.fotoredonda{
+
+	width: 200px;
+	height:200px;
+	border-radius: 100px;
+	padding: 5%;
+	margin: 3%;
+	position: relative;
+	left: 70px;
+	margin-bottom: 90px;
+}
+.nav-link{
+	background-color: #CDCDBC;
+	border-radius: 5%;
+	text-indent: 1px;
+	padding-right: 3px;
+	box-shadow: 0px 3px 0px #A6A697;
+	
+}
+.nav-link:hover{
+	box-shadow: 0px 0px 0px;
+	padding-top: 7px;
+	
+}
+.nav-item{
+	padding-left: 1%;
+	border-radius:10%;
+	
+
+}
+.boton2{
+	text-align: right;
+}
+
+#button {
+ padding: 0;
+ }
+
+.button{
+ display: inline;
+ padding: 0;
+	
+ }
+#header-nav{
+padding: 5px 0;
+background-color: white;
+}
+
+.bgamarillo{
+	background-color: #E7A80B;
+}
+
+.container h1{
+	padding-top: 50px;
+	font-weight: 200;
+	margin-left: 100px;
+}
+
+.container h3{
+	margin-left: 100px;	
+}
+
+.list-group h2{
+	margin-left: 100px;
+}
+.yellow{
+background-color: #E7A80B;
+}
+
+.list-group{
+background-color: #E7A80B;
+padding-top: 20px;
+padding-bottom: 40px;
+}
+
+#fave{
+	color: black;
+	background-color: #1F274A;
+	width: 130px;
+	heigh: 50px;
+	color: #FFFFFF;
+	padding: 0px 30px;
+	border-radius: 10px;
+}
+
+#settings{
+	color: black;
+}
+
+#edit{
+	color: black;
+}
+
+#compras{
+	color: black;
+}
+
+.sidebar{
+	margin-left: 100px;
+	color: black;
+	font-size: 25px;
+}
+
+.prodsfavs{
+	background-color: white;
+	margin-bottom: 70px;
+}
+
+.prodsfavs h2{
+	padding-top: 30px;
+	text-align: center;
+	
+}
+
+.img-fluid{
+	width: 150px;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-bottom: 30px;
+}
+
+.button .btn-primary{
+	border: 0;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	background-color: #1F274A;
+	
+}
+
+#centrate{
+	margin-left: 300px;
+	margin-bottom: 60px;
+	margin-top: 50px;
+	color: white;
+	}
+
+footer{
+	background-color: #9A1919;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#siguenos{
+	background-color: #9A1919;
+	text-align: right;
+	font-size: 30px;
+}

@@ -1,0 +1,181 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+header{
+	background-color:#9A1919;
+  padding: 30px 0px 4px;
+  margin-left: 0px;
+  margin-right: 0px;
+	height: 100px;
+}
+section{
+	padding:60px;
+}
+
+.button5 .btn-primary{
+	font-size: 20px;
+	background-color: transparent;
+	position: absolute;
+	top:30px;
+}
+
+.button2 .btn-primary{
+	background-color: transparent;
+	font-size: 20px;
+	position: relative;
+	left:100px;
+}
+#logowagia{
+	width: 300px;
+}
+
+#searchbox{
+	position: relative;
+	left: 190px;
+	width: 70%
+}
+.nav-link{
+	background-color: #CDCDBC;
+	border-radius: 5%;
+	text-indent: 1px;
+	padding-right: 3px;
+	box-shadow: 0px 3px 0px #A6A697;
+	
+}
+.nav-link:hover{
+	box-shadow: 0px 0px 0px;
+	padding-top: 7px;
+	
+}
+.nav-item{
+	padding-left: 1%;
+	border-radius:10%;
+	
+
+}
+.boton2{
+	text-align: right;
+}
+
+#button {
+ padding: 0;
+ }
+
+.button{
+ display: inline;
+ padding: 0;
+	
+ }
+#header-nav{
+padding: 5px 0;
+background-color: white;
+}
+footer{
+	background-color: #9A1919;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#siguenos{
+	background-color: #9A1919;
+	text-align: right;
+	font-size: 30px;
+}
+
+.boton2{
+	text-align: right;
+}
+
+#button {
+ padding: 0;
+ }
+
+.button{
+ display: inline;
+ padding: 0;
+	
+ }
+#header-nav{
+padding: 5px 0;
+background-color: white;
+}
+
+.list-group{
+background-color: #E7A80B;
+padding-top: 20px;
+padding-bottom: 40px;
+}
+
+#centrate{
+	margin-left: 300px;
+	margin-bottom: 60px;
+	margin-top: 50px;
+	color: white;
+	}
+.bgamarillo{
+	background-color: #E7A80B;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.bgazul{
+	background-color: #1F274A;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.bggris{
+	background-color: #CDCDBC;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#gris1{
+	background-color: #E8E8E8;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 10px;
+	height: 200px;
+	width: 500px;
+}
+
+#gris2{
+	background-color: #E8E8E8;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 10px;
+	height: 200px;
+	width: 500px;
+}
+
+#gris3{
+	background-color: #E8E8E8;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 10px;
+	height: 200px;
+	width: 500px;
+}
+
+h1{
+	text-align: center;
+	padding-top: 30px;
+}
+
+p{
+	text-align: center;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+	font-weight: 100;
+	font-size: 15px;
+}
+
+.img-fluid{
+	border-radius: 100px;
+	position:relative;
+	left: 85px;
+}
+
+#equipo{
+	text-align: center;
+}

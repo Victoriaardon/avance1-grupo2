@@ -1,0 +1,186 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+header{
+	background-color:#9A1919;
+  padding: 30px 0px 40px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.nav-link{
+	background-color: #CDCDBC;
+	border-radius: 5%;
+	text-indent: 1px;
+	padding-right: 3px;
+	box-shadow: 0px 3px 0px #A6A697;
+	
+}
+
+.nav-link:hover{
+	box-shadow: 0px 0px 0px;
+	padding-top: 7px;
+	
+}
+#searchbox{
+	position: relative;
+	left: 190px;
+	width: 70%
+}
+.nav-item{
+	padding-left: 1%;
+	border-radius:10%;
+	
+
+}
+
+.btn{
+	background-color: white;
+	
+	
+}
+.button .btn-primary{
+	position: relative;
+	left: 350px;
+	background-color: transparent;
+	font-size: 20px;
+}
+.button2 .btn-primary{
+	position: relative;
+	left: 360px;
+	background-color: transparent;
+	font-size: 20px;
+}
+
+.boton2{
+	text-align: right;
+
+}
+
+#button {
+ padding: 0;
+ }
+
+.button{
+ display: inline;
+ padding: 0;
+	
+ }
+#header-nav{
+padding: 5px 0;
+background-color: transparent;
+}
+
+#intro{
+	background-image: url("../img/serprende-el-pais-hn-2.jpg");
+	background-size: cover;
+	 background-position: center;
+    background-repeat: no-repeat;
+	padding-bottom: 5%;
+	padding: 10%;
+	
+}
+#intro h2{
+	text-align: center;
+	color: #FFFFFF;
+	padding: 10%;
+	padding-bottom: 0px;
+	padding-top: 6%;
+	font-size: 40px;
+}
+#intro p{
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 20px;
+	padding-bottom: 5%;
+}
+.brocha{
+	background-image: url("../img/blue-paint-brush-stroke-2.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+padding: 3%;
+
+}
+.fotoredonda{
+	width: 200px;
+	height:200px;
+	border-radius: 150px;
+	padding: 5%;
+	margin: 3%;
+}
+#categorias h3{
+	text-align: center;
+	padding-bottom: 5%;
+	font-size: 20px;
+}
+#categorias{
+	text-align: center;
+	padding: 3%;
+	background-color: #E7A80B
+}
+#categorias h1{
+	padding: 2%;
+	font-size: 50px;
+}
+#populares{
+	background-image: url("../img/fitos.jpg");
+	background-size: cover;
+	 background-position: center;
+    background-repeat: no-repeat;
+	padding: 14%;
+}
+#populares h1{
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #080939; 
+	background-size: contain;
+	margin-left: 20%;
+	margin-right: 20%;
+	border-radius: 5px;
+	padding-bottom: 1%;
+	padding-top: 1%;
+}
+.boton {
+	text-align: center;
+	align-content: center;
+	padding: 8px ;
+	margin-top: 10%;
+	font-size: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.container{
+	 text-align: center;
+}
+
+.btn-primary{
+	background-color: #D8D8D8;
+	border: 0;
+	border: 0;
+	padding: 10px 25px;
+	font-size: 14px;
+}
+
+footer{
+	background-color: #9A1919;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+footer h1{
+	text-align: right;
+	font-size: 30px;
+}
+
+.list-social i{
+	background-color: #9A1919;
+	color: #fff;
+	text-align: center;
+}
+
+.list-social i:hover{
+	background-color: #1F274A;
+}

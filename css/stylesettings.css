@@ -1,0 +1,227 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: black;
+}
+header{
+	background-color:#9A1919;
+  padding: 30px 0px 40px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.nav-link{
+	background-color: #CDCDBC;
+	border-radius: 5%;
+	text-indent: 1px;
+	padding-right: 3px;
+	padding-right: 3px;
+	box-shadow: 0px 3px 0px #A6A697;
+}
+.nav-link:hover{
+	box-shadow: 0px 0px 0px;
+	padding-top: 7px;
+	
+}
+.nav-item{
+	padding-left: 1%;
+	border-radius:10%;
+	
+
+}
+.boton2{
+	text-align: right;
+}
+
+#button {
+ padding: 0;
+ }
+
+.button{
+ display: inline;
+ padding: 0;
+	
+ }
+.button .btn-primary{
+	position: relative;
+	left: 350px;
+	background-color: transparent;
+	font-size: 20px;
+}
+.button2 .btn-primary{
+	position: relative;
+	left: 390px;
+	background-color: transparent;
+	font-size: 20px;
+}
+#searchbox{
+	position: relative;
+	left: 190px;
+	width: 70%
+}
+#header-nav{
+padding: 5px 0;
+background-color: transparent;
+}
+.img-fluid{
+	width: 150px;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-bottom: 30px;
+}
+#settings{
+	color: aliceblue;
+}
+.fondo{
+	background-color: #E7A80B;
+}
+.cajaform{
+	background-color: #FFFFFF;
+	border-radius:3%;
+	padding: 5%;
+}
+.container h1{
+	padding-top: 50px;
+	font-weight: 200;
+	margin-left: 100px;
+}
+
+.container h3{
+	margin-left: 100px;	
+}
+
+.list-group h2{
+	margin-left: 100px;
+}
+.yellow{
+background-color: #E7A80B;
+}
+
+.list-group{
+background-color: #E7A80B;
+padding-top: 20px;
+padding-bottom: 40px;
+}
+
+#editar{
+	background-color: #1F274A;
+	width: 130px;
+	heigh: 50px;
+	color: #FFFFFF;
+	padding: 0px 30px;
+	border-radius: 10px;
+}
+#fave{
+	color: #000000;
+}
+#settings{
+	color: white;
+}
+
+#edit{
+	color: black;
+}
+
+#compras{
+	color: black;
+}
+
+.sidebar{
+	margin-left: 100px;
+	color: black;
+	font-size: 25px;
+}
+.fotoperfil{
+	font-size: 15px;
+	text-align: left;
+}
+
+/* Bordered form */
+form {
+  border: 3px solid #f1f1f1;
+	margin-bottom: 3%;
+}
+
+/* Full-width inputs */
+input.text {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #1F274A;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  cursor: pointer;
+  width: 100%;
+	border-radius: 10px;
+}
+.cambios{
+	align-content: center
+}
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+/* Center the avatar image inside this container */
+.imgcontainer {
+  text-align: right;
+  margin: 24px 0 12px 0;
+}
+
+/* Avatar image */
+img.avatar {
+  width: 20%;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* The "Forgot password" text */
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+}
+
+
+footer{
+	background-color: #9A1919;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#siguenos{
+	background-color: #9A1919;
+	text-align: right;
+	font-size: 30px;
+}
+
